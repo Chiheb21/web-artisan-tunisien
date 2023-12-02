@@ -1,0 +1,64 @@
+
+[
+  {
+    "id": 1,
+    "name": "Collier",
+    "price": 20,
+    "imgSrc": "/imgs/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bleu",
+    "price": 80,
+    "imgSrc": "/imgs/bleu.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Collier 2",
+    "price": 30,
+    "imgSrc": "/imgs/2.jpg"
+  }
+  ,
+
+  {
+    "id": 4,
+    "name": "Collier 3",
+    "price": 20,
+    "imgSrc": "/imgs/3.jpg"
+  }
+  ,
+
+  {
+    "id": 5,
+    "name": "Collier 4",
+    "price": 30,
+    "imgSrc": "/imgs/4.jpg"
+  }
+  ,
+
+  {
+    "id": 6,
+    "name": "Rose",
+    "price": 30,
+    "imgSrc": "/imgs/rose.jpg"
+  }
+  ,
+
+  {
+    "id": 7,
+    "name": "MULT",
+    "price": 50,
+    "imgSrc": "/imgs/mul.jpg"
+  }
+  ,
+
+
+  {
+    "id": 8,
+    "name": "Blanc",
+    "price": 30,
+    "imgSrc": "/imgs/blanc.webp"
+  }
+  
+ 
+]
